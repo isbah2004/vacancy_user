@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84909805505",
+    "project_id": "lcpl-manpower-and-vacancy",
+    "storage_bucket": "lcpl-manpower-and-vacancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84909805505:android:229ab14fcfbe1c25082940",
+        "android_client_info": {
+          "package_name": "com.example.vacancy_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUUZUelLKZAUCg7PGyQa39nrAPWlr-tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84909805505:android:49829d9b23a20713082940",
+        "android_client_info": {
+          "package_name": "com.lottechem.vacancyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUUZUelLKZAUCg7PGyQa39nrAPWlr-tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
